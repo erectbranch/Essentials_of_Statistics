@@ -24,7 +24,7 @@
 
 ## 🚩 정리한 문서 목록
 
-### 🚪 통계학과 연구설계 입문
+### 🚪 통계학 입문
 
 - [통계의 갈래와 변인, 연구설계 기초](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch01)
 
@@ -33,6 +33,22 @@
 - [빈도분포와 빈도표](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch02)
 
   > 빈도표, 히스토그램, 빈도다각형, 정규분포와 편중분포
+
+### 🎯 데이터 집중경향과 변산성
+
+- [집중경향과 변산성](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch04)
+
+  > 집중경향: 평균/중앙값/최빈값, 변산성: 범위, 분산, 표준편차
+
+- [정상곡선, 표준화, z점수](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch06)
+
+  > standardization, 정규분포, $z$ score, $z$ 분포, 표준 정규분포, 중심극한정리
+
+### 📝 가설검증
+
+- [z test를 이용한 가설검증](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch07)
+
+  > z 점수표 사용법, 가설검증, 모수적 검증, 비모수적 검증, 가설검증의 6단계, z-test를 이용한 가설검증
 
 <br/>
 

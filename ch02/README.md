@@ -74,7 +74,7 @@ $$ {1 \over 51}(100) = 1.961 $$
 
 ### 2.4.1 normal distribution(정규분포)
 
-통계에서 normal(정상)이란 단어는 매우 특별한 방식으로 사용한다. **normal distribution**(정규분포)는 대칭을 이루는 산 모양에 봉우리가 하나인 독특한 빈도분포 곡선을 말한다.
+통계에서 normal(정상)이란 단어는 매우 특별한 방식으로 사용한다. **normal distribution**(정규분포, Gaussian distribution)는 대칭을 이루는 산 모양에 봉우리가 하나인 독특한 빈도분포 곡선을 말한다.
 
 ![IQ 정규분포](images/iq_normal_distribution.png)
 
