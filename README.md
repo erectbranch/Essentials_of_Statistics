@@ -26,9 +26,13 @@
 
 ### 🚪 통계학과 연구설계 입문
 
-- 통계의 갈래와 변인, 연구설계 기초
+- [통계의 갈래와 변인, 연구설계 기초](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch01)
 
   > 기술 통계와 추론 통계, variable의 종류, reliability와 validity, hypothesis testing 방법
+
+- [빈도분포와 빈도표](https://github.com/erectbranch/Essentials_of_Statistics/tree/master/ch02)
+
+  > 빈도표, 히스토그램, 빈도다각형, 정규분포와 편중분포
 
 <br/>
 
